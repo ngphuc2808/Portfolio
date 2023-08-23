@@ -1,4 +1,3 @@
-import { Fragment } from 'react';
 import data from '../../../../../utils/dataConfig';
 
 interface iProject {
