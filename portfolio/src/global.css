@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  @apply p-0 m-0 box-border;
+}
+
+html {
+  @apply scroll-smooth;
+}
+
+body {
+  @apply font-bevietnam bg-gradient-to-r from-zinc-800 to-stone-950;
+}
+
+.container {
+  @apply max-w-[1170px] px-5 m-auto;
+}
