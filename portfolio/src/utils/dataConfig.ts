@@ -8,7 +8,7 @@ const data = [
     title: 'Basic Music App',
     description: 'Ứng dụng nghe nhạc cơ bản',
     technologies: ['HTML', 'CSS', 'Javascript'],
-    siteUrl: 'https://phucnh-dev.github.io/demo-music-app/',
+    siteUrl: 'https://music-app-lemon-seven.vercel.app/',
   },
 ];
 
