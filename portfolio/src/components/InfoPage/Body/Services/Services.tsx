@@ -22,7 +22,9 @@ const Services = () => {
                 <div className="flex justify-start w-full mx-auto items-center">
                   <div data-aos="fade-right" data-aos-duration="1200" className="w-full sm:w-1/2 sm:pr-9">
                     <div className="bg-headerColor shadow-lg p-4 rounded shadow group cursor-pointer hover:bg-zinc-800 ease-in duration-300">
-                      <h3 className="text-headingColor font-semibold mb-3 text-xl">Frontend Development</h3>
+                      <h3 className="text-headingColor font-semibold mt-3 sm:mt-0 mb-3 text-xl">
+                        Frontend Development
+                      </h3>
                       <p className="text-sm text-smallTextColor font-medium group-hover:text-white leading-7">
                         - HTML, CSS, JavaScript (TypeScript), ReactJS, NextJS.
                         <br />- CSS Frameworks: SCSS, Bootstrap, Tailwind, NextUI, Material UI.
@@ -51,7 +53,7 @@ const Services = () => {
                     className="w-full sm:w-1/2 sm:pl-9"
                   >
                     <div className="bg-headerColor shadow-lg p-4 rounded shadow group cursor-pointer hover:bg-zinc-800 ease-in duration-300">
-                      <h3 className="text-headingColor font-semibold mb-3 text-xl">Backend Development</h3>
+                      <h3 className="text-headingColor font-semibold mt-3 sm:mt-0 mb-3 text-xl">Backend Development</h3>
                       <p className="text-sm text-smallTextColor font-medium group-hover:text-white leading-7">
                         - Java Spring, NodeJs (ExpressJs).
                         <br />
@@ -80,7 +82,7 @@ const Services = () => {
                     className="w-full sm:w-1/2 sm:pr-9"
                   >
                     <div className="bg-headerColor shadow-lg p-4 rounded shadow group cursor-pointer hover:bg-zinc-800 ease-in duration-300">
-                      <h3 className="text-headingColor font-semibold mb-3 text-xl">DevOps Engineer</h3>
+                      <h3 className="text-headingColor font-semibold mt-3 sm:mt-0 mb-3 text-xl">DevOps Engineer</h3>
                       <p className="text-sm text-smallTextColor font-medium group-hover:text-white leading-7">
                         Đang cập nhật...
                       </p>
@@ -106,7 +108,7 @@ const Services = () => {
                     className="w-full sm:w-1/2 sm:pl-9"
                   >
                     <div className="bg-headerColor shadow-lg p-4 rounded shadow group cursor-pointer hover:bg-zinc-800 ease-in duration-300">
-                      <h3 className="text-headingColor font-semibold mb-3 text-xl">Apps Development</h3>
+                      <h3 className="text-headingColor font-semibold mt-3 sm:mt-0 mb-3 text-xl">Apps Development</h3>
                       <p className="text-sm text-smallTextColor font-medium group-hover:text-white leading-7">
                         Đang cập nhật...
                       </p>

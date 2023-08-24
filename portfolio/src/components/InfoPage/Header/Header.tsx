@@ -2,7 +2,7 @@ import 'remixicon/fonts/remixicon.css';
 
 const Header = () => {
   return (
-    <header className="fixed z-[100] w-full h-[80px] bg-headerColor shadow-lg leading-20 flex items-center ">
+    <header className="fixed top-0 left-0 z-[100] w-full h-[80px] bg-headerColor shadow-lg leading-20 flex items-center ">
       <div className="container">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-[10px]">
@@ -36,7 +36,7 @@ const Header = () => {
           </div>
 
           <div className="flex items-center gap-4">
-            <button className="flex items-center gap-2 text-primaryColor border border-solid border-primaryColor hover:bg-primaryColor hover:text-darkColor py-2 px-4 rounded-lg ease-in duration-200 hidden sm:block">
+            <button className="items-center gap-2 text-primaryColor border border-solid border-primaryColor hover:bg-primaryColor hover:text-darkColor py-2 px-4 rounded-lg ease-in duration-200 hidden sm:flex">
               <i className="ri-send-plane-line"></i>
               <a className="" href="#contact">
                 Liên hệ

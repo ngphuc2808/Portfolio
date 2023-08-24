@@ -4,7 +4,7 @@ import images from '../../../../assets/images';
 
 const About = () => {
   return (
-    <section className="pt-[80px]" id="about">
+    <section className="pt-0 mt-[80px]" id="about">
       <div className="container pt-14">
         <div className="md:flex items-center justify-between sm:flex-col md:flex-row">
           <div className="w-full md:basis-1/2">
